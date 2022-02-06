@@ -1,5 +1,5 @@
 # EDA 
-My application responses this question with it's rules:
+My application answers this question with it's rules:
 
 Imagin we should implement an application in a distributed system.
 There are many events that the application has to register and event's fire time are different.
