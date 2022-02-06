@@ -2,7 +2,7 @@
 My application answers this question:
 
 Imagin we should implement an application in a distributed system.
-There are many events that the application has to register and event's fire time is different.
+There are many events that the application has to registerand send in the future.Events' fire time is different.
 
 
 For Instance one event has to be sent in B but second has to be sent in A and sending time accuracy is one milisecond.
